@@ -1,0 +1,42 @@
+//-----------------------------------------------------
+//SerialCommunicationTest commitログ
+//-----------------------------------------------------
+
+---------------------------------------------------------------
+18xxxx by keitwo
+・
+
+■主な変更点
+
+■追加ファイル
+■削除ファイル
+■変更ファイル
+
+---------------------------------------------------------------
+181124 by keitwo
+・シリアルポート通信テストプロジェクト
+
+■プロジェクト説明
+・このプロジェクトは、C#でシリアルポート(COMポート)を選択、接続し、
+　文字列を送信、受信するテストプロジェクトです。
+　Baudrateは、デフォルト115200bpsです。必要ならば適宜変えてください。
+　リポジトリ生成時では、文字列(char)の送受信のテストからスタートしますが、
+　バイナリデータ(byte)の送受信もできるようにしていきたいと思います。
+
+・Visual Studio 2017での開発環境です。
+
+■追加ファイル
+README.md
+SerialCommunicationTest.sln
+SerialCommunicationTest/App.config
+SerialCommunicationTest/Form1.Designer.cs
+SerialCommunicationTest/Form1.cs
+SerialCommunicationTest/Form1.resx
+SerialCommunicationTest/Program.cs
+SerialCommunicationTest/Properties/AssemblyInfo.cs
+SerialCommunicationTest/Properties/Resources.Designer.cs
+SerialCommunicationTest/Properties/Resources.resx
+SerialCommunicationTest/Properties/Settings.Designer.cs
+SerialCommunicationTest/Properties/Settings.settings
+SerialCommunicationTest/SerialCommunicationTest.csproj
+doc/commit_log_keitwo.txt
